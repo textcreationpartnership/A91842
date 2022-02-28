@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message from the king of Scotland; to the Parliament convened at Edenborough. And Lieutenant Gen: Lesley's preparation to receive him, upon his landing at Frith; and to conduct him to Edenborough, with a convoy of 3000 horse. : Also, a list of the earls, lords, and knights, that are expelled the kingdom of Scotland, and not to come within the verge of the court. : Together, with the raising of every fourth man in Scotland; the number of the horse and foot, and their advance nearer to the borders of England: with Col. Hackers regiment, and some other of the Parl. of Englands forces, marching into Northumberland.</title>
+            <author>Rishton, A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91842</idno>
+            <idno type="STC">Wing R1536</idno>
+            <idno type="STC">ESTC R203479</idno>
+            <idno type="EEBO-CITATION">45097923</idno>
+            <idno type="OCLC">ocm 45097923</idno>
+            <idno type="VID">171499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171499)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message from the king of Scotland; to the Parliament convened at Edenborough. And Lieutenant Gen: Lesley's preparation to receive him, upon his landing at Frith; and to conduct him to Edenborough, with a convoy of 3000 horse. : Also, a list of the earls, lords, and knights, that are expelled the kingdom of Scotland, and not to come within the verge of the court. : Together, with the raising of every fourth man in Scotland; the number of the horse and foot, and their advance nearer to the borders of England: with Col. Hackers regiment, and some other of the Parl. of Englands forces, marching into Northumberland.</title>
+                  <author>Rishton, A.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A. Rishton.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Leven, Alexander Leslie, --  Earl of, 1580?-1661.</term>
+               <term>Hacker, Francis, d. 1660.</term>
+               <term>Scotland --  History --  1649-1660.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171499:1" rendition="simple:additions"/>
+            <p>A MESSAGE FROM THE KING OF SCOTLAND; <hi>TO</hi> The PARLIAMENT Convened at <hi>EDENBORO<g ref="char:V">Ʋ</g>GH.</hi>
+            </p>
+            <p>AND Lieutenant Gen: Leſley's preparation to receive him, upon his landing at <hi>Frith;</hi> and to conduct him to <hi>Edenborough,</hi> with a Convoy of 3000 Horſe.</p>
+            <p>
+               <hi>ALSO,</hi> A Liſt of the Earls, Lords, and Knights, that are expelled the Kingdom of <hi>Scotland,</hi> and not to come within the Verge of the Court.</p>
+            <p>Together, with the raiſing of every fourth man in <hi>Scotland;</hi> the number of the Horſe and foot, and their advance nearer to the Borders of <hi>England:</hi> With Col. <hi>Hackers</hi> Regiment, and ſome other of the Parl. of <hi>Englands</hi> forces, marching into <hi>Northumberland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> 1650.</p>
+            <pb facs="tcp:171499:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171499:2"/>
+            <head>A MESSAGE from the KING of SCOT<g ref="char:EOLhyphen"/>LAND, to the PARLIAMENT conve<g ref="char:EOLhyphen"/>ned at EDENBOROUGH.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU were once the Object, whom I much honour'd and eſteem'd for the Truths ſake, that formerly remain'd in You, and was ſo faithfully promoted by you; which makes me admire, that ſo great an Alchymiſt, as to extract honey out of the Rock, ſhould now ſuck poyſon out of a flower; by chang<g ref="char:EOLhyphen"/>ing your former principles of truth, and adhering to erroneous opinions, and new inventions of men: I cannot compare you to a Bee (unleſſe for your ſting) but to a Spider; for ſucking poyſon from that ſavou<g ref="char:EOLhyphen"/>ry doctrine of Reformation in Religion (againſt which you ſpit ſo much of your venom:) However, I ſhall not return you railing for railing, but in a ſpirit of meekneſs endeavour to convince you, that ſo you may no longer be enſnared, by being wrapt up in thoſe clouds of darkneſs, but that you may (after ſo great a change) once more ſhine forth in your native Coun<g ref="char:EOLhyphen"/>try
+<pb n="2" facs="tcp:171499:3"/>
+(as a bright Star from the higheſt Canopy) with ſplendour and beauty; for the giving light to thoſe, who are ſo wilfully blinded in the ways of Truth and purity; for aſſuredly, all thoſe who profeſs that diſ<g ref="char:EOLhyphen"/>cipline, are ſuch whom God doth both honour and love; therefore be no more a Changeling from Truth, but a ſtable pattern in the ways of holineſs; that ſo you may remain in ſafety under the preſent power and conſtitution, and likewiſe to reſt your ſelf ſatis<g ref="char:EOLhyphen"/>fied and obedient to thoſe, who ſit at the Helm of Ma<g ref="char:EOLhyphen"/>giſtracy. Thus having given you a hint of your back<g ref="char:EOLhyphen"/>ſliding or falling off, I ſhall (at preſent) inſiſt no fur<g ref="char:EOLhyphen"/>ther on thoſe circumſtances; but acquaint you with ſuch Occurrences and Overtures, which daily run in the current of the great ſtream, now ebbing and flow<g ref="char:EOLhyphen"/>ing between the titular King of <hi>Scots,</hi> and the Parlia<g ref="char:EOLhyphen"/>ment convened at <hi>Edenborough, viz.</hi>
+            </p>
+            <p>The Parliament ſit cloſe, debate high, and great things are in conſultation among them, which for the moſt part ſeem (as yet) abortive; onely their King is daily expected (if intervenings at Sea retard not their expectation) from whom they have received a Meſſage, directed to the Lord Chancellour, intima<g ref="char:EOLhyphen"/>ting:</p>
+            <p>
+               <hi>That he is reſolved, wholly to cast himſelf upon them, and to ſigne and ſubſcribe to ſuch things, as in honour and ſafe<g ref="char:EOLhyphen"/>ty may be granted and aſſented to; that he is very well ſa<g ref="char:EOLhyphen"/>tisfied in Conſcience, of the lawfulneſs of the</hi> Preſbyterian <hi>Government, and taking of the ſolemn League and Cove<g ref="char:EOLhyphen"/>nant, being reſolved to give a toleration thereof to all thoſe who have, or ſhall adhere thereto; and that thoſe obſtacles which did most retard his good opinion thereof, are now re<g ref="char:EOLhyphen"/>moved from him, and that he hath given his Chaplains a</hi>
+               <pb n="3" facs="tcp:171499:3"/>
+               <hi>free diſcharge; being reſolved to embrace ſuch a retinue, as ſhall be acceptable and approved of by them, &amp;c. and there<g ref="char:EOLhyphen"/>fore deſireth a bleſſing upon their undertakings, in <g ref="char:V">Ʋ</g>nity, and Peace.</hi>
+            </p>
+            <p>This Letter is very well reſented by divers, great in power both in Kirk and State, and great proviſions are making for his arrivall; but others again, are not very well ſatisfied therewith, and deſire ra<g ref="char:EOLhyphen"/>ther a fair correſpondency with the Parliament of <hi>England,</hi> than an inthroning of the ſaid King; but ma<g ref="char:EOLhyphen"/>ny conjecture, that thoſe thoughts ariſe more from fear than love, by reaſon of the alarm of the <hi>Engliſh</hi> Armies advance; ſome give out there is preparation made to meet them, which many the rather believe, by reaſon the <hi>Scots</hi> continue on their great great Levy, and (as we hear) have raiſed every fourth man, from 16 to 60, and that divers regiments have already exer<g ref="char:EOLhyphen"/>ciſed and muſtered. Lieutenant General <hi>Leſley</hi> with 3000 horſe &amp; foot, have taken up their quarters at the Sea-port towns beyond <hi>Fryth,</hi> to attend the landing of their young King, that they may conduct him ſafe<g ref="char:EOLhyphen"/>ly to <hi>Edenborough;</hi> The reſt of the Army being about 5000, are advanced from <hi>Sterling,</hi> more nearer towards the borders of <hi>England,</hi> to encourage their new levied forces (who ſeem very unwilling to engage againſt <hi>England)</hi> to march Southward; where they Liſt, Exerciſe, and Train up their young ſoldiers daily. Yet notwithſtanding theſe warlike preparations, great are the diſcontents which daily ariſe amongſt them, and many of the commoners cry out, That a Scotch purſe will not do the deed, and therefore they pray hard, that their <hi>Covenanting-brethren</hi> in <hi>London,</hi> may appear viſible for their aſſiſtance.</p>
+            <p>
+               <pb n="4" facs="tcp:171499:4"/>
+The Miniſters are very zealous for propagating the preſent work in hand, ſtirring up the people, and bidding them not to doubt but that their endeavours and undertakings, will be victoriouſly crowned from heaven; and as they have ſeen the extirpation of ma<g ref="char:EOLhyphen"/>lignancy, ſo they ſhall likewiſe behold the finall de<g ref="char:EOLhyphen"/>ſtruction of Hereſie; but the truth is, <hi>Jockey</hi> is in a <hi>Scotch</hi> Myſt, and begins to lament the loſſe of their for<g ref="char:EOLhyphen"/>mer intereſt in <hi>Berwick</hi> and <hi>Carliſle.</hi>
+            </p>
+            <p>There was on the ſixt inſtant, great ſtir about paſſing a Vote in Parliament, the queſtion was, whe<g ref="char:EOLhyphen"/>ther they ſhould make any further addreſſes to the King? Thirty of the Members preſent, cryed, <hi>No King, No King;</hi> but all the reſt (being about ſixty) were for it, uttering great acclamations, <hi>for King and Covenant, for King and Covenant;</hi> and thereupon ad<g ref="char:EOLhyphen"/>journed till the next day, where the firſt thing they inſiſted on, was another Letter to be ſent to their King: Wherein they deſire his ſpeedy coming to <hi>E<g ref="char:EOLhyphen"/>denbourgh,</hi> to ſit in Councel with them, aſſuring him, that they will endeavour to the utmoſt of their pow<g ref="char:EOLhyphen"/>er, to ſettle him in his Throne, and reſtore him to his rights, &amp;c. Yet notwithſtanding the paſſing of this Vote, they reſolved that theſe enſuing perſons hereafter named, ſhould be expelled that Kingdom, and be made uncapable of bearing any Office for the future, and not to come within the Verge of the Court, without ſpeciall warrant from the Parlia<g ref="char:EOLhyphen"/>men, by reaſon of their great actings in the laſt war.</p>
+            <p>
+               <pb n="5" facs="tcp:171499:4"/>
+               <list>
+                  <head>
+                     <hi>A List of the Earls, Lords, and Knights, that are expelled the Kingdom of</hi> Scotland, <hi>or not to come within the Verge of the Court at</hi> Edenbourgh, <hi>without Warrant from the Parliament there convened.</hi>
+                  </head>
+                  <item>
+                     <hi>William</hi> Duke of <hi>Hamilton.</hi>
+                  </item>
+                  <item>
+                     <hi>George</hi> Earl of <hi>Seaforth.</hi>
+                  </item>
+                  <item>
+                     <hi>George</hi> Earl of <hi>Landerdale.</hi>
+                  </item>
+                  <item>
+                     <hi>William</hi> Earl of <hi>Dumfreſs.</hi>
+                  </item>
+                  <item>
+                     <hi>John</hi> Earl of <hi>Traquire.</hi>
+                  </item>
+                  <item>
+                     <hi>James</hi> Earl of <hi>Kalendar.</hi>
+                  </item>
+                  <item>
+                     <hi>Patrick</hi> Earl of <hi>Forth.</hi>
+                  </item>
+                  <item>
+                     <hi>John</hi> Lord <hi>Sinclare.</hi>
+                  </item>
+                  <item>
+                     <hi>John</hi> Lord <hi>Carnegy.</hi>
+                  </item>
+                  <item>Lord <hi>Napier.</hi>
+                  </item>
+                  <item>
+                     <hi>James</hi> Lord <hi>Fitham.</hi>
+                  </item>
+                  <item>Sir <hi>George Monro.</hi>
+                  </item>
+                  <item>Sir <hi>John Charles.</hi>
+                  </item>
+                  <item>Sir <hi>John Lodhart.</hi>
+                  </item>
+                  <item>Col. <hi>Thomas Daliel.</hi>
+                  </item>
+                  <item>Col. <hi>John Cockram.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Theſe perſons are forthwith to deſert their King, and not to be admitted perſonally with him into <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> till further Orders from the Parliament, and ſa<g ref="char:EOLhyphen"/>tisfaction given to the Kirk and Councel; This Vote of baniſhment is branded with the title of Tyranny, by divers ſorts of perſons, which cauſeth great murmur<g ref="char:EOLhyphen"/>ings from many, and eſpecially upon the executing of Colonel <hi>Dalgely,</hi> and <hi>Sibbet,</hi> who being brought to the place of execution, where their heads were to be ſevered from their bodies; when they came upon the Scaffold, by their deportment they ſeemed undanted, and Colonel <hi>Dalgely</hi> made a ſhort ſpeech to the people, touching the lawfulneſſe of his engagement for the King, that he died faithfull lover of his Country, and that he endeavoured to gain righteouſneſſe, and preſerve loyalty; and having ended his Oration, he went to the Block, ſaluted the Axe, and laying down his head, was preſently beheaded: Colonel <hi>Sibbet</hi>
+               <pb n="6" facs="tcp:171499:5"/>
+made alſo a Speech, ſetting forth the juſtneſs of his cauſe, and that he died for loyalty, and being a friend to righteouſneſs, &amp;c. Which being ended, he took his leave of ſome friends, and bade the Executioner do his Office; which was accordingly performed.</p>
+            <p>Colonel <hi>Hackers</hi> Regiment is march'd into <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> and ſome others into <hi>Weſtmerland,</hi> and <hi>Cum<g ref="char:EOLhyphen"/>b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rland;</hi> a vigilant eye is kept fixed towards <hi>Scotland,</hi> by the <hi>Engliſh</hi> Officers, who daily implore a bleſſing from heaven, upon their undertakings; which will aſſuredly attend them in all their enterprizes, accord<g ref="char:EOLhyphen"/>ing to that ſweet promiſe of <hi>Jeremiah; That God will anſwer thoſe who ſincerely call upon him, and ſhew great things to come; and own them, and the juſtneſs of their cauſe, and ſtrengthen both their hands and hearts:</hi> Which is the unfeigned deſire of</p>
+            <closer>
+               <dateline>Carliſle, <date>June 10. 1650.</date>
+               </dateline>
+               <signed>Your Chriſtian friend, <hi>A. Riſhton.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
